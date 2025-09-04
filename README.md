@@ -1,7 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/mexico_public/ealbinu.svg)](https://user-badge.committers.top/mexico_public/ealbinu)
 
 
-## Hi there 👋
 
 <!--
 **ealbinu/ealbinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
